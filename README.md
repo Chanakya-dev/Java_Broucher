@@ -1,4 +1,4 @@
-# **Java Full Stack Developer**
+# **Java Full Stack**
 
 ## **Git and GitHub**
 - Version Control  
@@ -86,17 +86,13 @@
 
 ---
 
-## **Tools and DevOps**
-- **Git**: Version Control and Collaboration  
-- **Docker**:  
-  - Building Docker Images  
-  - Managing Containers  
-  - Docker Compose for Multi-Service Applications  
-
-- **CI/CD Pipelines**:  
-  - Jenkins for Continuous Integration  
-  - Deployment to AWS/Heroku  
-
+## **DevOps**
+- Introduction to Docker
+- Docker Installation and Setup
+- Building Docker Images
+- Docker Containers
+- Dockerfile Basics
+- Docker Compose
 ---
 
 ## **Key Features**
