@@ -86,7 +86,7 @@
 
 ---
 
-## **DevOps**
+## **Docker**
 - Introduction to Docker
 - Docker Installation and Setup
 - Building Docker Images
