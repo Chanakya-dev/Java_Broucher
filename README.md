@@ -53,7 +53,6 @@
 - Spring Boot Security (JWT Authentication, Role-Based Access Control)  
 - Exception Handling in Spring Boot  
 - Testing Spring Boot Applications (MockMVC, Unit Testing)  
-- Deployment of Spring Boot Applications (Tomcat, Docker, Heroku)  
 
 ---
 
